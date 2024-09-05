@@ -42,7 +42,7 @@ mvn spring-boot:run
 
 ```
 <h2 id="doc">📚 Documentação</h2>
-- Swagger configurado para visualizar <kbd>url</kbd>http://localhost:8080/swagger-ui/index.html#/
+- Swagger configurado para visualizar <kbd>url </kbd>http://localhost:8080/swagger-ui/index.html#/
 
 <h2 id="routes">📍 API Endpoints</h2>
 
@@ -54,11 +54,11 @@ mvn spring-boot:run
 
 <kbd>GET /livro/ano/{ano}</kbd>	Buscar livros pelo ano
 
-<kbd>POST /livro</kbd>	Salvar um novo livro
+<kbd>POST /livro</kbd>	Salvar novo livro
 
-<kbd>PUT /livro/{isbn}</kbd>	Atualizar um livro pelo ISBN
+<kbd>PUT /livro/{isbn}</kbd>	Atualizar livro pelo ISBN
 
-<kbd>DELETE /livro/{isbn}</kbd>	Deletar um livro pelo ISBN
+<kbd>DELETE /livro/{isbn}</kbd>	Deletar livro pelo ISBN
 
 
 <h2 id="obs">🔍 Observações</h2>
